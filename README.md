@@ -80,8 +80,7 @@ The project was completed as part of my **Business Analysis Internship at Alfido
 
 * **Bar Charts** showing average income & spending per cluster
 
-
-*(Insert your plots here in the repo as PNGs or directly in the notebook)*
+![chart](https://github.com/Abdulrasheed055/Alfido-Tech-Internship-Task-1/blob/main/output_9_0.png)
 
 ---
 
