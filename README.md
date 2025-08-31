@@ -47,7 +47,6 @@ The project was completed as part of my **Business Analysis Internship at Alfido
 
 4. **Visualization**
 
-   * 2D scatter plots of clusters
    * Heatmaps to compare cluster means
    * Tables summarizing segment characteristics
 
@@ -79,9 +78,8 @@ The project was completed as part of my **Business Analysis Internship at Alfido
 
 ## 📈 Visualizations
 
-* **Cluster Scatter Plot** (Age vs. Spending Score)
 * **Bar Charts** showing average income & spending per cluster
-* **Heatmap** comparing cluster characteristics
+
 
 *(Insert your plots here in the repo as PNGs or directly in the notebook)*
 
