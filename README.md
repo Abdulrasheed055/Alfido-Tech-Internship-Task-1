@@ -1,6 +1,6 @@
 # Alfido-Tech-Internship-Task-1
 
-## 📌 Project Overview
+##  Project Overview
 
 This project focuses on **customer segmentation** using **K-Means clustering**. The goal is to group customers into meaningful segments based on their behavior and characteristics, enabling businesses to **target the right customers with personalized strategies**.
 
@@ -8,7 +8,7 @@ The project was completed as part of my **Business Analysis Internship at Alfido
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Clean and preprocess the dataset
 * Apply **K-Means clustering** to segment customers
@@ -50,7 +50,6 @@ The project was completed as part of my **Business Analysis Internship at Alfido
    * Heatmaps to compare cluster means
    * Tables summarizing segment characteristics
 
----
 
 ## 📊 Results
 
@@ -84,13 +83,10 @@ The project was completed as part of my **Business Analysis Internship at Alfido
 
 ---
 
-## 📌 Key Insights
+##  Key Insights
 
 * Younger families spend less → need targeted discounts
 * Middle-aged balanced customers → sustain loyalty with engagement programs
 * High-income customers → opportunity for premium services
 
----
 
-
-Would you like me to also **write the code template (Python notebook structure)** that fits into this GitHub repo so you can just drop in your dataset and run everything smoothly?
